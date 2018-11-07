@@ -4,6 +4,6 @@
 
 [Main Web Site](https://torontocatrescue.ca/)
 
-[Cats Available for ADoption](http://www.torontocatrescueadopt.com/)
+[Cats Available for Adoption](http://www.torontocatrescueadopt.com/)
 
 
