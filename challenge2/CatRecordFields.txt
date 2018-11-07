@@ -1,0 +1,20 @@
+Proposal Date
+Name
+Age
+Sex
+Description
+S/N
+Shelter Name
+Shelter ID
+Petpoint ID (Unique Identifier)
+Image
+FIV Tested (+/-) - Tested Positive, Tested Negative, Not Tested (default)
+FLV Tested (+/-) - Tested Positive, Tested Negative, Not Tested (default)
+FVRCP Vaccination Date
+Rabies Vaccination Date
+Medcial Notes
+Behaviour Notes
+Outcome - Entered into TCR program, euthanized, etc.
+Intake Date
+Foster Placement Date
+Location - Dropdown
