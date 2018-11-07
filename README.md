@@ -13,7 +13,11 @@ For more information about each challenge please see the
 ## Social Media Sites
 
 [Main Web site](https://torontocatrescue.ca/)
+
 [Facebook](https://www.facebook.com/TorontoCatRescue/)
+
 [Twitter](https://twitter.com/torontocatrescu)
+
 [Instagram](https://www.instagram.com/torontocatrescu/)
+
 [Youtube](https://www.youtube.com/user/torontocatrescue)
